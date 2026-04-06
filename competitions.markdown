@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Competitions
-permalink: /aidan.github.io/competitions
+permalink: competitions
 ---
 
 Over the years, I have took part in many competitions. These are my awards and experiences in order of recency:
