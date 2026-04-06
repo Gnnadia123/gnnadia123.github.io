@@ -39,6 +39,11 @@ Perse Coding Team Challenge - Final round
 Perse Coding Team Challenge - Preliminaries **[Merit]**
 
 
+
+## 2025 ##
+
+Queen's Commonwealth Essay Writing Competition **[Silver]**
+
 ## 2022 ##
 
 National Science Olympiad (Upper Primary) **[Bronze]**
