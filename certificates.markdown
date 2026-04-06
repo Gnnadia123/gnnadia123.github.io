@@ -13,6 +13,8 @@ Perse Team Coding Challenge - **Merit**
 
 ## 2025 ##
 
+Queen's Commonwealth Essay Writing Competition **Silver**
+
 IDE VEX Challenge - **Inspire Award**
 
 ## 2023 ##
