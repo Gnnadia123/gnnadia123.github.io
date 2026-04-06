@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Certifications
-permalink: /aidan.github.io/certificates/
 ---
 
 Over many experiences, I have gained many certifications and merits. They are below in order of recency: 
