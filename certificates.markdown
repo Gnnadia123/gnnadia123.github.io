@@ -9,7 +9,7 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
-Perse Team Coding Challenge - **Merit**
+Perse Coding Team Challenge - **Merit**
 
 ## 2025 ##
 
