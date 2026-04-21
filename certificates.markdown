@@ -43,6 +43,8 @@ SST Integrated Diploma Program
 
 SST Girls-In-STEM Challenge (Admin)
 
+Cisco Introduction To Cybersecurity
+
 Apple Teacher: iPad
 
 Apple Teacher: Mac
