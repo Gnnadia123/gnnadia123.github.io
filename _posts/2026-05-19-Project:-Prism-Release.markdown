@@ -13,6 +13,6 @@ Project: Prism is my most ambitious project as of now, and developing this game 
 
 ![Forge mechanics](/images/projprismforge.png)
 
-The game is in Gen 0-1 (Means version 0.1) and is now up on my github at: https://github.com/Gnnadia123/Project-Prism/tree/main 
+The game is in Gen 0-1 (Means version 0.1) and is now up on [my Github.](https://github.com/Gnnadia123/Project-Prism/tree/main)
 
 This game was inspired by games like Sol's RNG, and offers a text-based break away from every other gacha game nowadays with flashy lights and overloaded effects. 
