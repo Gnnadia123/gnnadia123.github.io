@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Certifications
 ---
 
@@ -9,9 +9,11 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
-Perse Team Coding Challenge - **Merit**
+Perse Coding Team Challenge - **Merit**
 
 ## 2025 ##
+
+Queen's Commonwealth Essay Writing Competition - **Silver**
 
 IDE VEX Challenge - **Inspire Award**
 
@@ -40,6 +42,8 @@ SST Integrated Diploma Program
 ## 2024 ##
 
 SST Girls-In-STEM Challenge (Admin)
+
+Cisco Introduction To Cybersecurity
 
 Apple Teacher: iPad
 

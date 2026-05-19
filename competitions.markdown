@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 title: Competitions
-permalink: /aidan.github.io/competitions
+permalink: competitions
 ---
 
 Over the years, I have took part in many competitions. These are my awards and experiences in order of recency:
@@ -38,6 +38,11 @@ Perse Coding Team Challenge - Final round
 
 Perse Coding Team Challenge - Preliminaries **[Merit]**
 
+
+
+## 2025 ##
+
+Queen's Commonwealth Essay Writing Competition **[Silver]**
 
 ## 2022 ##
 
