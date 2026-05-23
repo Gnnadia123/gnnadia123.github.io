@@ -12,7 +12,7 @@ Being a Sports and Wellness Representative for Black House, I led the Secondary 
 
 At Greenleaf View, we managed to overtake Blue House, who had stopped for a break. While it wasn't a race, and no extra points were awarded for getting back first, the friendly competition sparked a morale boost, encouraging us to do better. After a few wrong turns and coincidentally meeting with the Secondary 4 Blue House group at our route junction, we arrived at Buona Vista, for our second game station. 
 
-<video width="1080" height="1920" controls>
+<video width="540" height="960" controls>
     <source src="/images/sstride-ghim-moh.mp4">
     Your browser does not support the video tag.
 </video>
