@@ -9,6 +9,10 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
+Blank's Beginnings 26' Quarterfinalist
+
+Perse Coding Team Challenge (Round 2) - **Merit**
+
 Perse Coding Team Challenge - **Merit**
 
 ## 2025 ##

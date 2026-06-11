@@ -11,6 +11,8 @@ Over the years, I have took part in many competitions. These are my awards and e
 
 ## 2026 ##
 
+Blank's Beginnings 26'
+
 Singapore VEX V5 Nationals (HS) 
 
 
@@ -34,7 +36,7 @@ IDE Series 2024 - Lego Challenge
 
 ## 2026 ##
 
-Perse Coding Team Challenge - Final round
+Perse Coding Team Challenge - Final round **[Merit]**
 
 Perse Coding Team Challenge - Preliminaries **[Merit]**
 
