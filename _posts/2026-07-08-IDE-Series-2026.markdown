@@ -1,0 +1,28 @@
+---
+layout: post
+title: IDE Series 2026
+
+carousels: 
+- images: 
+    - image: /images/ide-2026/idevex1.JPG
+    - image: /images/ide-2026/idevex2.JPG
+    - image: /images/ide-2026/idevex3.JPG
+    - image: /images/ide-2026/idevex4.JPG
+    - image: /images/ide-2026/idevex5.JPG
+    - image: /images/ide-2026/idevex6.JPG
+    - image: /images/ide-2026/idevex7.JPG
+---
+
+# Innovate, Design, Enginnering. #
+
+IDE VEX is widely considered the first formal VEX event of the year for Singapore. While still a small event, proper judged awards were given, alongside partners like VM education and VEX Academy taking part as sponsors. It was exciting to see the new season, Override, be played at a formal event in-person. The event saw many schools take part, including top-level schools like Nan Hua High School (8501A), ACSI (8059), Hwa Chong Instituition (8076), and more. Not many teams attended, but it gave us a first feel of how the new season would feel. 
+
+For IDE, we built a cascade lift, although there were quite a few technical difficulties we could not fix. In the end, we decided to place heavy focus on toggle play, changing the toggles to get the score of the yellow pins in the area. This strategy was mediocre at best. Before going for lunch, we were ranked fourth, our W-L-T ratio being 3-1-0. However, after lunch, everything went downhill, as we lost the next few matches to end 4-4-0. Ranking ninth seed, we were unable to find an alliance for the semifinals. 
+
+For the pit interview, our team worked together seamlessly, presenting on the features of our bot, highlighting the pros and cons and being able to fully explain our engineering process. After alliance selection, however, we initially gave up, believing that that was the end and that IDE was a flop. 
+
+That was until a pleasant surprise. During the award ceromony, hearing "8068Y Isomagnetic" be called out by the judge was a huge surprise. To me, our performance was mediocre at best, yet the judges saw something in us that qualified us for the Amaze Award, given to teams with an all-round excellent performing robot. Our team has potential, and we will keep working to unlock that potential within each of us, to play to the best of our abilities and do our level best. 
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+Congratulations to 8068E Isodynamic for getting the Inspire Award, and 8068V Isochromatic for getting the Design Award! This achieved SST's first triple-award at any competition since the Singapore Nationals in 2025. Let's keep pushing, and work even harder for the later season!
