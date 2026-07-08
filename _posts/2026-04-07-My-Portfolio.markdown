@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Just set up my portfolio!
 ---
 

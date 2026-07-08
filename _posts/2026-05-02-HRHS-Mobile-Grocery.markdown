@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: 好人好事 HRHS Experience
 ---
-
-# My HRHS Mobile Grocery Experience  
 
 On 2nd May 2026, I participated in the 好人好事 Hao Ren Hao Shi mobile grocery program at Tampines West Community Club as a volunteer along with my class. My role was a side game usher, responsible for entertaining the elderly while they wait for their name to be called to collect the food. 
 
