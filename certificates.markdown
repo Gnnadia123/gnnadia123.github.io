@@ -9,6 +9,10 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
+S3 Student Congress Inter-class debate - **Champion**
+
+IDE Series VEX 2026 - **Amaze Award**
+
 Blank's Beginnings 26' Quarterfinalist
 
 Perse Coding Team Challenge (Round 2) - **Merit**

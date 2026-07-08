@@ -11,6 +11,10 @@ Over the years, I have took part in many competitions. These are my awards and e
 
 ## 2026 ##
 
+S3 Student Congress Inter-class Debate **[Champion]**
+
+IDE VEX Series 2026 **[Amaze Award]**
+
 Blank's Beginnings 26'
 
 Singapore VEX V5 Nationals (HS) 
