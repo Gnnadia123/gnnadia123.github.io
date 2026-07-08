@@ -24,5 +24,6 @@ For the pit interview, our team worked together seamlessly, presenting on the fe
 That was until a pleasant surprise. During the award ceromony, hearing "8068Y Isomagnetic" be called out by the judge was a huge surprise. To me, our performance was mediocre at best, yet the judges saw something in us that qualified us for the Amaze Award, given to teams with an all-round excellent performing robot. Our team has potential, and we will keep working to unlock that potential within each of us, to play to the best of our abilities and do our level best. 
 
 {% include carousel.html height="80" unit="%" duration="7" number="1" %}
+*8068Y Showcase, photo credits to Kyle Chua*
 
 Congratulations to 8068E Isodynamic for getting the Inspire Award, and 8068V Isochromatic for getting the Design Award! This achieved SST's first triple-award at any competition since the Singapore Nationals in 2025. Let's keep pushing, and work even harder for the later season!
