@@ -9,7 +9,7 @@ We were picked by 8059S to take the 5th seeded alliance, while our sister teams 
 
 Having just landed in Singapore in the wee hours of the morning, the sleep deprivation was apparent. However, I still pushed through, performing consistently well in every match. I learnt how important it is to be resilient, and to stand strong even when everything you can think of is to give up. I'm definitely glad I chose to sacrifice soome sleep and fight the fatigue for 8 hours to attend this competition. 
 
-![My team and I at BB26](/images/BB26.png)
+![My team and I at BB26](/assets/images/BB26.png)
 *Me (Team driver), Aldo (Lead Coach), and Medhansh (Drive Team) at BB26*
 
 One more thing - 8068S will compete in the rest of the Override season as 8068Y Isomagnetic, purely as an aesthetic choice. See you at IDE!

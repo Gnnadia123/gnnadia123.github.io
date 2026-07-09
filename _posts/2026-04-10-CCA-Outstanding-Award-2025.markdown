@@ -3,7 +3,7 @@ layout: post
 title: CCA Outstanding Award (Team)
 ---
 
-![My 2025 Certificate](/images/cca-award-2025.jpeg)
+![My 2025 Certificate](assets/images/cca-award-2025.jpeg)
 
 I am honoured to receive the CCA Outstanding Performance Award as a member of Robotics@APEX. Thanks to all my seniors and mentors who have guided me through my journey! 
 

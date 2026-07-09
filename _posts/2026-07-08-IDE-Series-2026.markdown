@@ -4,13 +4,13 @@ title: IDE Series 2026
 
 carousels: 
 - images: 
-    - image: /images/ide-2026/idevex1.JPG
-    - image: /images/ide-2026/idevex2.JPG
-    - image: /images/ide-2026/idevex3.JPG
-    - image: /images/ide-2026/idevex4.JPG
-    - image: /images/ide-2026/idevex5.JPG
-    - image: /images/ide-2026/idevex6.JPG
-    - image: /images/ide-2026/idevex7.JPG
+    - image: /assets/images/ide-2026/idevex1.JPG
+    - image: /assets/images/ide-2026/idevex2.JPG
+    - image: /assets/images/ide-2026/idevex3.JPG
+    - image: /assets/images/ide-2026/idevex4.JPG
+    - image: /assets/images/ide-2026/idevex5.JPG
+    - image: /assets/images/ide-2026/idevex6.JPG
+    - image: /assets/images/ide-2026/idevex7.JPG
 ---
 
 # Innovate, Design, Enginnering. #
