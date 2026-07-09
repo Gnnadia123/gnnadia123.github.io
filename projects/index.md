@@ -33,9 +33,3 @@ permalink: /projects/
 </div>
 
 <script src="{{ '/assets/js/filter.js' | relative_url }}"></script>
-
-<script>
-console.log("Hello from Projects!");
-
-document.body.style.border = "5px solid red";
-</script>

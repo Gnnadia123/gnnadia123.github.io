@@ -167,3 +167,29 @@
     color: white;
 
 }
+
+.view-projects-button {
+
+    display: inline-block;
+
+    padding: 12px 24px;
+
+    background: #0a58ca;
+
+    color: white;
+
+    border-radius: 999px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    transition: 0.2s;
+
+}
+
+.view-projects-button:hover {
+
+    background: #084298;
+
+}
