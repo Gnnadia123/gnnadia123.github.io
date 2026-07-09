@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Certifications
+title: Achievements
 ---
 
 Over many experiences, I have gained many certifications and merits. They are below in order of recency: 
@@ -11,25 +11,41 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 S3 Student Congress Inter-class debate - **Champion**
 
-IDE Series VEX 2026 - **Amaze Award**
+IDE Series VEX Override 2026 - **Amaze Award**
 
 Blank's Beginnings 26' Quarterfinalist
 
-Perse Coding Team Challenge (Round 2) - **Merit**
+Perse Coding Team Challenge (Finals) - **Merit**
 
 Perse Coding Team Challenge - **Merit**
+
+Singapore VEX Push Back Nationals (HS)
 
 ## 2025 ##
 
 Queen's Commonwealth Essay Writing Competition - **Silver**
 
+Singapore VEX Push Back Championship (HS)
+
+SAS VEX Push Back Spooky Robo Rumble (HS)
+
 IDE VEX Challenge - **Inspire Award**
 
-## 2023 ##
+## 2024 ## 
+
+National Robotics Competition Singapore
+
+IDE Open Series 2024
+
+OBA Cup Badminton U15 Singles **[Top 8 Quarterfinalists]**
+
+## 2022 ##
 
 National Science Olympiad (Upper Primary) - **Bronze**
 
-# Certificates and Events #
+---
+
+# Events #
 
 ## 2026 ##
 

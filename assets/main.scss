@@ -33,3 +33,137 @@
     font-size: 3rem;
     margin-top: 10px;
 }
+
+.projects-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+
+    gap: 30px;
+
+    margin-top: 40px;
+
+}
+
+.project-card {
+
+    display: flex;
+
+    flex-direction: column;
+
+    background: white;
+
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    text-decoration: none;
+
+    color: inherit;
+
+    box-shadow: 0 8px 25px rgba(0,0,0,.08);
+
+    transition: .25s;
+
+}
+
+.project-card:hover {
+
+    transform: translateY(-6px);
+
+    box-shadow: 0 15px 40px rgba(0,0,0,.15);
+
+}
+
+.project-card-image {
+
+    width: 100%;
+
+    height: 220px;
+
+    object-fit: cover;
+
+}
+
+.project-card-content {
+
+    padding: 20px;
+
+}
+
+.project-card-content p {
+
+    color: #666;
+
+    margin: 12px 0;
+
+}
+
+.project-tags {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+}
+
+.project-tag {
+
+    background: #dcecff;
+
+    color: #0a58ca;
+
+    padding: 5px 12px;
+
+    border-radius: 999px;
+
+    font-size: .85rem;
+
+}
+
+.project-filters {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin: 30px 0;
+
+}
+
+.filter-button {
+
+    padding: 10px 18px;
+
+    border: none;
+
+    border-radius: 999px;
+
+    background: #edf3ff;
+
+    color: #0a58ca;
+
+    cursor: pointer;
+
+    transition: .2s;
+
+}
+
+.filter-button:hover {
+
+    background: #dcecff;
+
+}
+
+.filter-button.active {
+
+    background: #0a58ca;
+
+    color: white;
+
+}

@@ -1,0 +1,31 @@
+<a
+    class="project-card"
+    href="{{ include.project.url }}"
+    data-tags="{{ include.project.tags | join: ',' }}"
+>
+
+    <img
+        class="project-card-image"
+        src="{{ include.project.image }}"
+        alt="{{ include.project.title }}"
+    >
+
+    <div class="project-card-content">
+
+        <h2>{{ include.project.title }}</h2>
+
+        <p>{{ include.project.description }}</p>
+
+        <div class="project-tags">
+
+            {% for tag in include.project.tags %}
+
+                <span class="project-tag">{{ tag }}</span>
+
+            {% endfor %}
+
+        </div>
+
+    </div>
+
+</a>
