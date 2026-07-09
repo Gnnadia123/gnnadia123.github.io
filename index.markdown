@@ -5,7 +5,6 @@ title: Aidan Ng
 
 <div class="hero">
     <div class="hero-overlay">
-        <h1>Aidan Ng</h1>
         <p>Robotics • Programming • Engineering</p>
     </div>
 </div>
