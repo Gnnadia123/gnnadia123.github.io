@@ -16,10 +16,6 @@ permalink: /projects/
 
     <button class="filter-button" data-filter="Engineering">Engineering</button>
 
-    <button class="filter-button" data-filter="Python">Python</button>
-
-    <button class="filter-button" data-filter="Swift">Swift</button>
-
 </div>
 
 <div class="projects-grid">
