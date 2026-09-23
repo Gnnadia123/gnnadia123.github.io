@@ -10,8 +10,6 @@ The story started three weeks ago, on 3rd August. The bus of Indonesian exchange
 Of course, they didn't come to Singapore purely for fun. The problem statement posed to the 9 PIK groups and the 5 BDG (BBS Bandung) groups was "Breathe Local, Think Global", which saw groups creating a device to address the worsening air quality in Singapore and Indonesia. In those short 3 days, we worked on chemistry of air filters, aerodynamics, comupter-assisted design (CAD) and more. 
 
 ---
-
-# Jakarta: 
 ## Day 1
 
 Two weeks later, on Sunday, 16 August, the contingent of 52 SST students left for Jakarta's Soekarno-Hatta Airport (CGK) on SQ956. Waking up at 430am was no issue for most of us as we were too excited to sleep anyway. On the first day, we landed in Jakarta and met our local tour guides, and saw a visit to a traditional batik musuem where we had the opportunity to create our own batik patterns on a piece of fabric. Then, we proceeded to a cultural walk before a historical museum tour in Kota Bambu Selatan, West Jakarta. This just so happened to be in the middle of their Independence Day celebrations, so admist the chaos of the raves and partying, we gained a rare insight into how different countries celebrate their holidays. We finally checked in to our hotel, Hilton Garden, to stay for the night. 
