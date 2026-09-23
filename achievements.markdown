@@ -9,6 +9,8 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
+IDP SST x BBS IEP Engineering Challenge - **Design Excellence Award**
+
 S3 Student Congress Inter-class debate - **Champion**
 
 IDE Series VEX Override 2026 - **Amaze Award**
