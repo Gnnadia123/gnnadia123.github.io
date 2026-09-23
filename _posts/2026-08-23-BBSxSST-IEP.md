@@ -28,7 +28,7 @@ What really happened? Well, the tour agency changed our itinerary last minute wi
 
 ## Day 3 
 
-Tuesday was the first day we arrived in BBS PIK! Although we woke up at 5am, all of us were half-dead and excited to meet our buddies at the same time. We started off the day with an immersion of their Independence Day. We then went througha school tour before we were given time to work on our air purifier prototypes. Find out more about it [here](https://gnnadia123.github.io/).
+Tuesday was the first day we arrived in BBS PIK! Although we woke up at 5am, all of us were half-dead and excited to meet our buddies at the same time. We started off the day with an immersion of their Independence Day. We then went througha school tour before we were given time to work on our air purifier prototypes. Find out more about it [here](https://gnnadia123.github.io/projects/hexaair.html).
 
 ## Day 4
 
