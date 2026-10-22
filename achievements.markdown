@@ -9,6 +9,8 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
+Queen's Commonwealth Writing Competition 2026 - **Silver**
+
 IDP SST x BBS IEP Engineering Challenge - **Design Excellence Award**
 
 S3 Student Congress Inter-class debate - **Champion**
@@ -25,7 +27,7 @@ Singapore VEX Push Back Nationals (HS)
 
 ## 2025 ##
 
-Queen's Commonwealth Essay Writing Competition - **Silver**
+Queen's Commonwealth Writing Competition 2025 - **Silver**
 
 Singapore VEX Push Back Championship (HS)
 
@@ -50,6 +52,10 @@ National Science Olympiad (Upper Primary) - **Bronze**
 # Events #
 
 ## 2026 ##
+
+Robotics @APEX Presentation to A Star (A*)
+
+Robotics @APEX Presentation to James Dyson Foundation
 
 Celebrations@SST - **CCA Outstanding Performance Award 2025**
 
