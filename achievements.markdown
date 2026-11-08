@@ -9,6 +9,10 @@ Over many experiences, I have gained many certifications and merits. They are be
 
 ## 2026 ##
 
+NullSec Hack N' Flag 2026 
+
+SAS VEX Override Spooky Robo Rumble 2026
+
 Queen's Commonwealth Writing Competition 2026 - **Silver**
 
 IDP SST x BBS IEP Engineering Challenge - **Design Excellence Award**
@@ -53,6 +57,8 @@ National Science Olympiad (Upper Primary) - **Bronze**
 
 ## 2026 ##
 
+Interhouse Cheerdance 2026 - **Champion**
+
 Robotics @APEX Presentation to A Star (A*)
 
 Robotics @APEX Presentation to James Dyson Foundation
@@ -67,6 +73,8 @@ SST RoboSummit (Facilitator)
 
 SST Girls-In-STEM Challenge (Facilitator)
 
+Interhouse Cheerdance 2025
+
 Edusave 2025 - **Good Progress Award**
 
 SST Integrated Diploma Program 
@@ -74,6 +82,8 @@ SST Integrated Diploma Program
 ## 2024 ##
 
 SST Girls-In-STEM Challenge (Admin)
+
+Interhouse Cheerdance 2024 - **Champion**
 
 Cisco Introduction To Cybersecurity
 

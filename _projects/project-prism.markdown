@@ -3,7 +3,7 @@ layout: post
 title: Project Prism
 description: Text-based game coded in python 
 image: /assets/images/projprismmenu.png
-featured: true
+featured: false
 tags: 
 - Python
 - Game
