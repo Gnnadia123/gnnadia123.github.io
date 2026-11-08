@@ -4,7 +4,7 @@ layout: default
 
 <div class="hero">
     <div class="hero-overlay">
-        <p><b>Robotics • Programming • Engineering</b></p>
+        <p><b>Robotics | Programming | Engineering</b></p>
     </div>
 </div>
 
@@ -28,6 +28,6 @@ Hi! I am Aidan Ng, a student graduating from SST's Intergrated Diploma Program c
 
 <p style="text-align:center; margin-top:30px;">
     <a class="view-projects-button" href="/projects/">
-        View All Projects →
+        View All Projects
     </a>
 </p>
