@@ -57,6 +57,10 @@ National Science Olympiad (Upper Primary) - **Bronze**
 
 ## 2026 ##
 
+RED Camp, Ngee Ann Poly
+
+IDP eXtended Learning Experience, Ngee Ann Poly
+
 Interhouse Cheerdance 2026 - **Champion**
 
 Robotics @APEX Presentation to A Star (A*)
